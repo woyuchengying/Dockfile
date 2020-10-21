@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/cadvisor:0.36
+FROM gcr.io/google-containers/cadvisor:v0.36.0
